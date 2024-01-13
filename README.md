@@ -23,5 +23,19 @@ Url location: https://github.com/kebb-pseg/project-1
 2.  player20DF, player279DF, player159DF, player124DF dataframe is used for data discovery.
 4.  mvp_votes_df: MVP votes dataframe from data source: https://ak-static.cms.nba.com/wp-content/uploads/sites/46/2021/06/2020-21-NBA-MVP-Voting-Results-Announcement.pdf
 5.  statistics_df dataframe: the final dataframe is used to generate analysis graphic 
-6.   
+6.  graphics folder contains all generated charts for our analysis
+
+# Key Finding 1 - Points per game did not impact the MVP voters in their player selection. 
+# Key Finding 2 - Plus Minus did not have any influence on the voters while casting their vote for the season’s MVP.
+# Key Finding 3 - Rebounding statistics have a bigger impact with the voters that benefits the players who are forwards or center over guard position.
+# Key Finding 4 - Shooting accuracy has a bigger impact with the voters
+# Key Finding 5 - Amongst other factors, ASSISTS and STEALS shows a significantly higher influence on voting as compared to PERSONAL FOULS and BLOCKS
+
+
+
+
+
+
+
+
 
