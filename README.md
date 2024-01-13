@@ -25,8 +25,8 @@ Use Matplotlib to create 6 to 8 visualizations of your data
 Create a write-up summarizing your major findings
 Create Presentation (edited) 
 
-# GitHub repository summary: location: 
-https://github.com/kebb-pseg/project-1
+# GitHub repository summary: 
+Url location: https://github.com/kebb-pseg/project-1
 1. Project 1 Final-checkpoint.ipynb (Jupyter Notebook file)
 2. api_keys.py (the file contains the key to use in API calls, no key contains inside the file. just for reference)
 3. Team6-RutgersProject01-Deck.pptx (Presentation slides)
