@@ -19,4 +19,9 @@ Url location: https://github.com/kebb-pseg/project-1
 4. README.md (Project information)
 
 # Code Logistics
-1.  
+1.  Due to the API usage restriction (100 calls per day), we pick top 4 MVP candidates (player Id:20, 279, 159, 124) to query the 2021 regular season's player's performance statistics
+2.  player20DF, player279DF, player159DF, player124DF dataframe is used for data discovery.
+4.  mvp_votes_df: MVP votes dataframe from data source: https://ak-static.cms.nba.com/wp-content/uploads/sites/46/2021/06/2020-21-NBA-MVP-Voting-Results-Announcement.pdf
+5.  statistics_df dataframe: the final dataframe is used to generate analysis graphic 
+6.   
+
