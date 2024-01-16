@@ -23,7 +23,13 @@ Url location: https://github.com/kebb-pseg/project-1
 2.  player20DF, player279DF, player159DF, player124DF dataframe is used for data discovery.
 4.  mvp_votes_df: MVP votes dataframe from data source: https://ak-static.cms.nba.com/wp-content/uploads/sites/46/2021/06/2020-21-NBA-MVP-Voting-Results-Announcement.pdf
 5.  statistics_df dataframe: the final dataframe is used to generate analysis graphic 
-6.  graphics folder contains all generated charts for our analysis
+6.  graphics folder contains all generated charts for our analysis.
+7.  Points vs MVP Votes.png shows R-Value:-0.45 lower than 0.5 indicate variables which have a low correlation.
+8.  Plus Minus Factor vs MVP Votes.png shows R-Value:-0.37 lower than 0.5 indicate variables which have low correlation.
+9.  Field Goal Pct vs MVP Votes.png shows R-Value: 0.60 higher than 0.5 indicate variablles which have moderrately correlated.
+10. Offensive Rebounds vs MVP Votes.png shows R-Value: 0.63 higher than 0.5 indicate variablles which have moderrately correlated.
+11. Field Goal Pct vs MVP Votes.png shows R-Value: 0.6 higher than 0.5 indicate variablles which have moderrately correlated.
+12. Assists vs MVP Votes.png shows R-Value: 0.54 and Steals vs MVP Votes.png shows R-Value: 0.6 higher than 0.5 indicate variablles which have moderrately correlated.
 
 ### Key Finding 1 - Points per game did not impact the MVP voters in their player selection. 
 ### Key Finding 2 - Plus Minus did not have any influence on the voters while casting their vote for the season’s MVP.
